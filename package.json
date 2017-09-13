@@ -1,0 +1,14 @@
+{
+  "name": "ci-reporter",
+  "version": "1.0.0",
+  "description": "Package for using nodejs/js as part of CI and report build status to CI server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahasak Pijittum <mahasak@gmail.com> (https://mahasak.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "teamcity-service-messages": "^0.1.8"
+  }
+}
